@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "banana-game-challenge",
+  "private_key_id": "752332da1afe6635c7df668895646544dfb1d3f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWvaTWSBAlhIr+\nqnbgalgdrCKzKN2Uh7rejhtTmGdgBrgK1O+2ljUQb1cpAQOhkBpd1EsA75yfrZK6\ngE4zSjiGoHfSuBziTunh9iDiKAddDg4uQe8H+LQOG37nnkBSHy16TTURfC2jWhxM\n3APW+M94HllXxmbQw0Z/Tv83IJMN1GYyP2RH2767eCu9dJ6ceHJXF5uPF1TBc7Qg\nMLjDgLNDw+oJJ2zvIDAtuR8emqN3/CWIijwT+v7WdHIjoJvhuDMx8SZtffhHbACz\nBP6OTE5IOePOD7TkvK4RV4pQ3LwsBroB7G0M2cSfAlO5ywu2zh4A+fhGXcwLmmPz\njepafcgLAgMBAAECggEAO/c3WbND9wYdPmJh0edAdgDEq90kiz6f21g5n012yKT3\nreaqjgVCCjXdVBD5b5trEXqf+0HuLdTtnXEI5V+7izSyYUCSqEu7GiN+KUleTQkI\nwrgcxNAZj7rz5EAX3Bbivz1iLWDM6cnXD0t9MwHGBdgLwOwhd/if7hskP8Oz7O85\nAIfAA9UQlegN9X0mjFFOCyNvpX35v3zDjR59UFtloIYM3w1ksWFyrHuBfs4wcGwh\nGEOAX0UmCjuC7mQ375u0b+reR3NV671lpoYrphF/5Kq+0oRSa0Nvwo5Cvy8QEq6B\n/NhKuKh75Hzmlgcw64Nyv3rKmKAJgQqF3NmXBCisqQKBgQD2qlettp3M4foY8N25\ngR3N9twBlFpl4AzTnJjaxDA+Psp+C4vpVz/JkwX77ShQNrdvHA+S9/5Sy9mMT9pv\nQB5yzeO4l6ey7jBZrAedpiRlYwWIYC3QuYHzLyaxKe/RK48RHqq8QFJ9bbBsKdAt\nzsxw3rSF+NDd8eAGuefqxnVeLQKBgQDe3gVG3NHWVcFxaJJOZ36WRP2qDZJSRmBU\ndvmnQ2KrjAWdNs1NTsy37uu8BmiypYrppLfAqzhQV74sihwO1q1gYWBc60Ir5xyp\nsz6InccqyrrOT7/i+L9lEL5dHIx+NFBfBkeHoc4mLj7SzgVtwI3rXm1sjEPlM+1+\nJgCk+sDaFwKBgCWyovPJlRRa9P4a0cgoE4YG1Fjpc2dedpdgt3u3wCfDMO9SlG91\nBiqobaGy/RZFRoOUpkyv2g6NWRI4ogmeowiorsTnaJnQDVOnFwLhAW79Uzskd9wO\nfe3Mpv0si5pMLfFP3ogmzHSe7veY7FgT4urdHnnbLRC+hp6AixE2g3mBAoGAW8eY\n6rbTX24PbNHAtrMeSWn+AML4CBPdZctdQomYn8bZJQZFg9m4quKkh9kn0rIjw9ZG\nqfyZA1UvBw6VQXMdETzovztPE99oSWZ8kSxQsgms5nunLSR9RXSgwJ2aKfsHQirG\n2E9FIyoWSx/20lzi1RQdAf+9ki1RV4r05vww4V8CgYEA7PB867Z0iGE112i03Gew\nren4UD3mEX2cmrZMHOYfuveviv9nrc1TDcyPv3IadysLoF7TYN1DfnKgmcDu2+6p\noVMzHwPbaDo6DyWjwiagp7sqpJ/ceH/7KzrEUYSOC7q0t1PtdlgevyKYkrK6lk02\nkTjK9G6+Jy9dmiTCJB6Trb0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-daoqq@banana-game-challenge.iam.gserviceaccount.com",
+  "client_id": "102436699104364595169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-daoqq%40banana-game-challenge.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
